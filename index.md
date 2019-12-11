@@ -6,3 +6,4 @@
 - [IT初心者が1ヶ月でAWSアソシエイトレベル3冠とってみたよ．](https://qiita.com/Allenie/items/89aad067d444b98c2f71)
 - [AWS 認定デベロッパー アソシエイト 合格記](https://qiita.com/nishii/items/12a628b37b740ebda48b)
 - [AWS認定デベロッパーアソシエイトを受験した時の話](https://qiita.com/aminosan000/items/89bc76f77626314f3182)
+- [ゼロから始めたAWS認定 Xxx アソシエイト 教材メモ](https://qiita.com/maki_azuki/items/e67c47753a51f104fb5a)
